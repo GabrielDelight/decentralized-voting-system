@@ -71,10 +71,6 @@ To deploy and interact with these contracts, you will need to have the following
 2. **Truffle or Hardhat**: For deploying and testing the smart contracts.
 3. **Metamask**: To interact with the Ethereum network and manage your account.
 
-### Steps to Deploy
 
-1. **Clone the Repository**
-
-   Clone the repository to your local machine:
 
  
